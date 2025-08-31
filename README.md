@@ -1,4 +1,4 @@
-# MAST30034 Project 1 README.md
+# New York taxi competition landscape 
 - Name: `Quang Ngoc Dao`
 - Student ID: `1338280`
 

@@ -1,0 +1,9 @@
+pyspark
+geopandas
+pandas
+matplotlib
+folium
+numpy
+shapely
+seaborn
+meteostat
